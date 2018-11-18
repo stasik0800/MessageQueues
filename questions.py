@@ -38,7 +38,7 @@ q = {'q1': """select
                             from employees
                           ) 
                     group by country,domain
-                    order by 1,3 ;""",
+                    order by 3 desc ;""",
 
     'q4': """  select 
                       sum(it.quantity) as amount_tracks_sold ,
