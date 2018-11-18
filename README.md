@@ -1,7 +1,8 @@
 # MessageQueues
 
 Using :
-
+Ubuntu 16.04
+rabbitmq ui running through docker 
 Python – 2.7 
 modules  - pika , json , sqlite3 , dicttoxml , pandas
 
