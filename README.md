@@ -6,16 +6,12 @@ Python – 2.7
 modules  - pika , json , sqlite3 , dicttoxml , pandas
 
 Python fiels description :
-send.py = send request to rabbit . Please provide values db_path and data_format inside the script.
-
-Receive.py = receive request from send.py.
-db.py = connections to sqlite db.
-
-format.py = methods returning format type.
-
-questions.py = hold queries related  to questions.
-
-Main.py = main program. 
+1) send.py = send request to rabbit . Please provide values db_path and data_format inside the script
+2) Receive.py = receive request from sendpy.
+3) db.py = connections to sqlite db.
+4) format.py = methods returning format type.
+5) questions.py = hold queries related  to questions.
+6) Main.py = main program. 
 
 
 Steps to run:
