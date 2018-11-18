@@ -12,6 +12,7 @@ format.py = methods returning format type.
 questions.py = hold queries related  to questions.
 Main.py = main program. 
 
+
 Steps to run:
 1) run send.py with supplied parameters.
 2) run reveive.py.
@@ -46,4 +47,3 @@ Steps to run:
 התייחסות רק לטבלת לקוחות
 
 
-MessageQueues
