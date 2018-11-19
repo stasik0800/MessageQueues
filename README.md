@@ -2,9 +2,9 @@
 
 Using :
 1) Ubuntu 16.04
-2) rabbitmq ui running through docker 
+2) rabbitmq:3-management  running through docker 
 3) Python – 2.7 
-4) modules  - pika , json , sqlite3 , dicttoxml , pandas
+4) modules  - pika (v 0.12 ), json , sqlite3 , dicttoxml (v 1.7.4) , pandas ( v 0.23.4)
 
 Python fiels description :
 1) send.py = send request to rabbit . Please provide values db_path and data_format inside the script
