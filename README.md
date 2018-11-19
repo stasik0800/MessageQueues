@@ -16,8 +16,8 @@ Python fiels description :
 
 
 Steps to run:
-1) run send.py with supplied parameters.
-2) run reveive.py.
+1) first run send.py with supplied parameters.
+2) second run reveive.py for getting result.
 
 
  
