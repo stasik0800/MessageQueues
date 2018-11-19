@@ -20,7 +20,8 @@ Steps to run:
 2) second run reveive.py for getting result.
 
 Output:
-1)for each question (q1...7) will create file xml,csv,json
+1) for each question (q1...7) will create file xml,csv,json
+
  
  
   :כל קובץ מכיל מספר שאלה 
