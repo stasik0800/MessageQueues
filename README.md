@@ -8,11 +8,11 @@ Using :
 
 Python fiels description :
 1) send.py = send request to rabbit . Please provide values db_path and data_format inside the script
-2) Receive.py = receive request from sendpy.
+2) Receive.py = receive request from send.py.
 3) db.py = connections to sqlite db.
 4) format.py = methods returning format type.
 5) questions.py = hold queries related  to questions.
-6) Main.py = main program. 
+6) Main.py = main program related to Receive.py. 
 
 
 Steps to run:
